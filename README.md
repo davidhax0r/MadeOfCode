@@ -1,5 +1,5 @@
-# Made Of Code Theme
+### Made Of Code
 
-One amazing theme
+One amazing theme for atom
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+<img src="http://madeofcode.s3.amazonaws.com/assets/production/9/medium.png" />
